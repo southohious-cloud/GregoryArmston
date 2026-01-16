@@ -80,5 +80,11 @@ This repository includes selected problem sets from Harvard’s CS50P: Introduct
 - `playback.py`: String replacement for timing
 - `tip.py`: Conditional logic and float formatting
 
-- ### Problem Sets 3–8
+- ## Problem Set 3
+- `fuel.py`: Fraction parsing, validation loops, and percentage classification
+- `taqueria.py`: Menu dictionary lookups with normalized input
+- `grocery.py`: Frequency counting with sorted output
+- `outdated.py`: Multi-format date parsing and ISO normalization
+
+- ### Problem Sets 4–8
 Additional problem sets and their logic‑pattern summaries are being added as I continue refining each module. My full binder includes complete logic‑pattern documentation, a master index, and a table of contents for all eight problem sets, and this repository will be updated to match that structure.
