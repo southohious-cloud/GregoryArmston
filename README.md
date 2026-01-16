@@ -42,3 +42,32 @@ I believe in:
 
 📫 Connect
 If you’re building something ambitious — automation, AI systems, or workflow architecture — I’d love to collaborate.
+
+## 🐍 CS50P Problem Sets
+
+This repository includes selected problem sets from Harvard’s CS50P: Introduction to Programming with Python. These exercises demonstrate foundational Python concepts and reflect my commitment to clean, modular, and intentional code design.
+
+### 🧪 Problem Set 0
+- `indoor.py`: Case normalization
+- `playback.py`: String replacement for timing
+- `faces.py`: Emoji substitution
+- `einstein.py`: Simple arithmetic and user input
+- `tip.py`: Conditional logic and float formatting
+
+### 🧪 Problem Set 1
+- `camel.py`: String manipulation and formatting
+- `coke.py`: Looping and input validation
+- `nutrition.py`: Dictionary lookups and conditionals
+- `plates.py`: Custom validation logic
+- `twttr.py`: Vowel removal and string filtering
+- `meal.py`: Time parsing + range comparison
+
+### 🧪 Problem Set 2
+- `einstein.py`: Simple arithmetic and user input
+- `faces.py`: Emoji substitution
+- `indoor.py`: Case normalization
+- `playback.py`: String replacement for timing
+- `tip.py`: Conditional logic and float formatting
+
+- ### Problem Sets 3–8
+Additional problem sets and their logic‑pattern summaries are being added as I continue refining each module. My full binder includes complete logic‑pattern documentation, a master index, and a table of contents for all eight problem sets, and this repository will be updated to match that structure.
