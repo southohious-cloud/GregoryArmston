@@ -47,6 +47,17 @@ If you’re building something ambitious — automation, AI systems, or workflow
 
 This repository includes selected problem sets from Harvard’s CS50P: Introduction to Programming with Python. These exercises demonstrate foundational Python concepts and reflect my commitment to clean, modular, and intentional code design.
 
+### CS50P Problem Set Index
+- Problem Set 0 — Functions & Conditionals
+- Problem Set 1 — Conditionals & Parsing
+- Problem Set 2 — Loops, Validation & Dictionaries
+- Problem Set 3 — Exceptions & Parsing
+- Problem Set 4 — Libraries, Randomness & Files
+- Problem Set 5 — Unit Testing
+- Problem Set 6 — File I/O, CSV & Images
+- Problem Set 7 — Regular Expressions
+- Problem Set 8 — Object-Oriented Programming
+
 ### 🧪 Problem Set 0
 - `indoor.py`: Case normalization
 - `playback.py`: String replacement for timing
