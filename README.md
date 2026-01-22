@@ -88,3 +88,9 @@ This repository includes selected problem sets from Harvard’s CS50P: Introduct
 
 - ### Problem Sets 4–8
 Additional problem sets and their logic‑pattern summaries are being added as I continue refining each module. My full binder includes complete logic‑pattern documentation, a master index, and a table of contents for all eight problem sets, and this repository will be updated to match that structure.
+
+## 📱 Scan to explore my work
+**Portfolio • GitHub • LinkedIn**  
+Instant access to my full ecosystem — projects, code, and professional profile.
+
+<img src="frame.png" width="180" alt="QR code to portfolio ecosystem">
