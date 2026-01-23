@@ -1,17 +1,30 @@
-﻿# 🧩 Problem Set 5
+﻿# CS50P - Problem Set 5 Logic Pattern Summary Sheet
 
-## Overview  
-Problem Set 5 introduces unit testing with `pytest`, emphasizing predictable function behavior, clean logic, and comprehensive test coverage. Each exercise focuses on writing functions that can be validated through automated tests.
+1. test_fuel.py - Unit Tests for fuel.py
+Logic pattern: assert-based testing
+· Test convert() with valid fractions
+· Test convert() with zero denominator
+· Test convert() with X > Y
+· Test gauge() for E, F, and percentages
 
-## Files  
-1. **`01_twttr.py`**  
-   Removes vowels from text to simulate a shortened “Twitter‑style” output, reinforcing string filtering and testable function design.
+2. test_twttr.py - Unit Tests for twttr.py
+Logic pattern: function isolation
+· Test removal of vowels
+· Test mixed-case input
+· Test strings with no vowels
+· Test strings with only vowels
 
-2. **`02_bank.py`**  
-   Evaluates greetings and returns a dollar amount based on politeness, practicing normalization, branching logic, and consistent return values.
+3. test_plates.py - Unit Tests for plates.py
+Logic pattern: rule-by-rule validation
+· Test length constraints
+· Test starting letters rule
+· Test number placement rule
+· Test leading zero rule
+· Test alphanumeric-only rule
 
-3. **`03_plate.py`**  
-   Validates vanity license plates according to a strict set of rules, emphasizing modular checks, helper functions, and thorough test coverage.
-
-4. **`04_refuel.py`**  
-   Converts a fraction into a fuel gauge reading, reinforcing exception handling, input validation, and predictable function behavior.
+4. test_bank.py - Unit Tests for bank.py
+Logic pattern: prefix-based conditions
+· Test "hello" variations
+· Test words starting with h
+· Test all other greetings
+· Assert correct return values
