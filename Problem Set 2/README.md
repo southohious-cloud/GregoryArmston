@@ -1,6 +1,6 @@
-﻿# CS50P - Problem Set 2 Logic Pattern Summary Sheet
+﻿# # CS50P - Problem Set 2 Logic Pattern Summary Sheet
 
-1.# CS50P - Problem Set 2 Logic Pattern Summary Sheet
+# CS50P - Problem Set 2 Logic Pattern Summary Sheet
 
 1. camel.py - camelCase -> snake_case
 Logic Pattern: Character-by-character transformation
