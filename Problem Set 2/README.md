@@ -31,11 +31,11 @@ Logic Pattern: Filter pattern
 4. plates.py - Vanity Plate Validation
 Logic Pattern: Multi-rule validation with early returns
 Rules enforced in order:
-1. Length must be 2-6 characters
-2. First two characters must be letters
-3. Numbers may appear only at the end
-4. First number cannot be zero
-5. Only alphanumeric characters allowed
+· (1) Length must be 2-6 characters  
+· (2) First two characters must be letters  
+· (3) Numbers may appear only at the end  
+· (4) First number cannot be zero  
+· (5) Only alphanumeric characters allowed  
 Each rule can fail immediately.
 
 5. nutrition.py - Fruit -> Calories Lookup
