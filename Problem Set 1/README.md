@@ -1,17 +1,40 @@
-﻿# 🧩 Problem Set 1
+﻿# CS50P - Problem Set 1 Logic Pattern Summary Sheet
 
-## Overview  
-Problem Set 1 expands into conditionals, string evaluation, and basic data lookup. These programs strengthen your ability to interpret user input and respond with structured logic.
+1. deep_thought.py - Exact Match
+Logic pattern: string comparison
+· Take user input
+· Compare to "42", "forty-two", "forty two"
+· If match -> print Yes
+· Else -> print No
 
-## Files  
-1. **`01_faces.py`**  
-   Converts text‑based emoticons into emoji characters using conditional checks.
+2. bank.py - Greeting-Based Output
+Logic pattern: prefix conditions
+· Take user input
+· Normalize to lowercase
+· If starts with "hello" -> output 0
+· Else if starts with "h" -> output 20
+· Else -> output 100
 
-2. **`02_nutrition.py`**  
-   Looks up the calorie count of a fruit from a predefined dictionary, reinforcing key/value access and input normalization.
+3. extensions.py - MIME Type Lookup
+Logic pattern: suffix mapping
+· Take filename input
+· Convert to lowercase
+· Extract extension after last dot
+· Use dictionary to map extension
+· If unknown -> output application/octet-stream
 
-3. **`03_extensions.py`**  
-   Determines a file’s media type based on its extension, practicing string parsing and conditional branching.
+4. interpreter.py - Math Expression Parser
+Logic pattern: tokenization + arithmetic
+· Take input like "x + y"
+· Split into operand1, operator, operand2
+· Convert operands to float
+· Perform operation
+· Print result to one decimal place
 
-4. **`04_interpreter.py`**  
-   Evaluates simple arithmetic expressions entered by the user, introducing parsing and basic computation.
+5. meal.py - Time-Based Meal Detection
+Logic pattern: range check
+· Take time input
+· Convert to float hour
+· If 7.0-8.0 -> breakfast
+· If 12.0-13.0 -> lunch
+· If 18.0-19.0 -> dinner
