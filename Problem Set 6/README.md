@@ -1,17 +1,40 @@
-﻿# 🧩 Problem Set 6
+﻿# CS50P - Problem Set 6 Logic Pattern Summary Sheet
 
-## Overview  
-Problem Set 6 focuses on file handling, CSV processing, and image manipulation. These exercises strengthen your ability to read, transform, and write data while working with external files and libraries.
+1. lines.py - Print Lines Without Comments
+Logic pattern: filtering + stripping
+· Read file line by line
+· Strip whitespace
+· Skip blank lines
+· Skip lines starting with "#"
+· Print remaining lines
 
-## Files  
-1. **`01_lines.py`**  
-   Counts the number of lines of actual code in a Python file, ignoring comments and blank lines, reinforcing file I/O and filtering logic.
+2. shirt.py - Overlay Shirt Image
+Logic pattern: image processing with PIL
+· Validate CLI args (input + output)
+· Open input image
+· Open shirt image
+· Resize input to shirt size
+· Paste shirt on top using mask
+· Save output image
 
-2. **`02_pizza.py`**  
-   Reads a CSV file containing pizza menu information and prints it in a neatly formatted table, practicing CSV parsing and structured output.
+3. pizza.py - CSV to Table
+Logic pattern: CSV parsing
+· Validate CLI args
+· Open CSV file
+· Use csv.reader or DictReader
+· Print table in formatted columns
 
-3. **`03_scourgify.py`**  
-   Cleans and restructures a CSV file of student names, converting “last, first” into a standardized format and writing the results to a new file.
+4. scourgify.py - Name Reformatting
+Logic pattern: CSV transform
+· Validate CLI args
+· Read input CSV
+· Split "last, first" into fields
+· Write output CSV with first and last columns
 
-4. **`04_shirt.py`**  
-   Overlays a shirt image onto another image using the Pillow library, reinforcing image manipulation, resizing, and file validation.
+5. shirtificate.py - Certificate Generator
+Logic pattern: text overlay on image
+· Prompt for name
+· Open certificate template
+· Use ImageDraw to write name
+· Center text horizontally
+· Save final image
