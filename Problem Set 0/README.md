@@ -2,7 +2,8 @@
 
 Overview
 
-Problem Set 0 introduces basic input/output, string formatting, and simple conditionals. These exercises reinforce user interaction, predictable output, and foundational syntax.
+Problem Set 0 
+Introduces basic input/output, string formatting, and simple conditionals. These exercises reinforce user interaction, predictable output, and foundational syntax.
 
 Files
 
