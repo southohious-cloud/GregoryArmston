@@ -1,30 +1,18 @@
-﻿# CS50P - Problem Set 5 Logic Pattern Summary Sheet
+﻿🧩 Problem Set 5 — Unit Tests
 
-1. test_fuel.py - Unit Tests for fuel.py
-Logic pattern: assert-based testing
-· Test convert() with valid fractions
-· Test convert() with zero denominator
-· Test convert() with X > Y
-· Test gauge() for E, F, and percentages
+Overview  
+Problem Set 5 expands on writing predictable, testable Python functions by introducing automated validation with pytest.  
+Each test file targets a specific program and ensures correct logic, edge‑case handling, and consistent behavior.
 
-2. test_twttr.py - Unit Tests for twttr.py
-Logic pattern: function isolation
-· Test removal of vowels
-· Test mixed-case input
-· Test strings with no vowels
-· Test strings with only vowels
+Files  
+1. test_twttr.py  
+   Validates the shorten() function by checking vowel removal, mixed‑case handling, and behavior with both vowel‑only and vowel‑free strings.
 
-3. test_plates.py - Unit Tests for plates.py
-Logic pattern: rule-by-rule validation
-· Test length constraints
-· Test starting letters rule
-· Test number placement rule
-· Test leading zero rule
-· Test alphanumeric-only rule
+2. test_bank.py  
+   Confirms correct return values for greetings, including “hello” variations, words beginning with h, and all other inputs.
 
-4. test_bank.py - Unit Tests for bank.py
-Logic pattern: prefix-based conditions
-· Test "hello" variations
-· Test words starting with h
-· Test all other greetings
-· Assert correct return values
+3. test_plates.py  
+   Tests vanity plate validation rules, including length limits, starting letters, number placement, leading zero restrictions, and alphanumeric requirements.
+
+4. test_fuel.py  
+   Ensures convert() and gauge() behave predictably by testing valid fractions, zero‑division errors, X > Y errors, and gauge output for E, F, and percentage ranges.
