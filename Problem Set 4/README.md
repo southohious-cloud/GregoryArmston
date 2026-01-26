@@ -23,3 +23,5 @@ Problem Set 4 introduces external libraries, stylized output, and real‑time da
 
 6. [**06_bitcoin.py**](06_bitcoin.py)  
    Fetches real‑time Bitcoin prices using an API. Practices HTTP requests, JSON parsing, and formatted currency output.
+   
+
