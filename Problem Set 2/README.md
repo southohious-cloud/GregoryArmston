@@ -1,44 +1,20 @@
-﻿# CS50P - Problem Set 2 Logic Pattern Summary Sheet
+﻿# 🧩 Problem Set 2
 
-1. camel.py - camelCase -> snake_case
-Logic Pattern: Character-by-character transformation
-· Loop through each character
-· If the character is uppercase:
-  · Add an underscore
-  · Convert it to lowercase
-· Otherwise, append as-is
-· Build the output string sequentially
+## Overview  
+Problem Set 2 deepens your work with strings, loops, and validation. These exercises emphasize incremental input processing, rule enforcement, and transforming text according to clear patterns.
 
-2. coke.py - Coke Machine Simulation
-Logic Pattern: Input validation + running total
-· Start with 50 cents owed
-· Loop until the total reaches 0
-· Accept only 5, 10 or 25
-· Subtract valid coins from the total
-· Ignore invalid coins
-· When total <= 0, output change owed
+## Files  
+1. **`01_camel.py`**  
+   Converts a `camelCase` identifier into `snake_case`, reinforcing character‑by‑character iteration and conditional string building.
 
-3. twttr.py - Remove Vowels
-Logic Pattern: Filter pattern
-· Define a set of vowels
-· Loop through each character
-· Skip vowels
-· Append all other characters
-· Preserve original order
+2. **`02_coke.py`**  
+   Simulates a vending machine that accepts coins until a target amount is reached, practicing loops, arithmetic, and state tracking.
 
-4. plates.py - Vanity Plate Validation
-Logic Pattern: Multi-rule validation with early returns
-Rules enforced in order:
-· (1) Length must be 2-6 characters
-· (2) First two characters must be letters
-· (3) Numbers may appear only at the end
-· (4) First number cannot be zero
-· (5) Only alphanumeric characters allowed
-Each rule can fail immediately.
+3. **`03_twttr.py`**  
+   Removes vowels from a string to simulate tweet‑style text, strengthening string traversal, filtering, and simple transformation.
 
-5. nutrition.py - Fruit -> Calories Lookup
-Logic Pattern: Dictionary lookup
-· Normalize input to lowercase
-· Use a dictionary mapping fruit -> calories
-· If the fruit exists, print its calories
-· If not, print nothing
+4. **`04_plates.py`**  
+   Validates vanity license plates according to a set of rules, emphasizing multi‑step validation, ordering constraints, and helper‑based logic.
+
+5. **`05_nutrition.py`**  
+   Looks up the calorie count of a fruit from a predefined table, reinforcing dictionary usage, normalization, and guarded lookups.
