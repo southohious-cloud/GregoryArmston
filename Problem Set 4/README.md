@@ -1,23 +1,25 @@
-﻿# 🌟 Problem Set 4
+# 🎯 Problem Set 4
 
 ## Overview
-Problem Set 4 emphasizes modular design through functions, structured input handling, and clean separation of logic. These programs reinforce reusable components, predictable behavior, and disciplined program flow.
+
+Problem Set 4 introduces external libraries, formatted output, and user interaction. These exercises reinforce string manipulation, randomness, and API usage while maintaining predictable structure and clean logic.
 
 ## Files
-1. **01_emojiize.py**  
-   Converts colon-based emoji codes into actual emoji characters, practicing string parsing and library-based substitution.
 
-2. **02_figlet.py**  
-   Renders user input as ASCII art using selectable fonts, reinforcing command-line argument parsing, validation, and third-party module usage.
+1. [**01.emojiize.py**](01.emojiize.py)  
+   Converts emoji aliases into actual emoji characters using the `emoji` library. Practices external module usage and string substitution.
 
-3. **03_adieu.py**  
-   Produces a farewell message that grammatically lists multiple names, strengthening list handling, joining logic, and conditional formatting.
+2. [**02.figlet.py**](02.figlet.py)  
+   Renders user input in ASCII art using the `pyfiglet` library. Reinforces command-line interaction and stylized output formatting.
 
-4. **04_game.py**  
-   Implements a number-guessing game with difficulty levels, reinforcing random number generation, loops, and structured conditional feedback.
+3. [**03.adieu.py**](03.adieu.py)  
+   Prints a farewell message to one or more names. Strengthens list handling, string joining, and conditional formatting.
 
-5. **05_little_professor.py**  
-   Generates arithmetic quizzes for students, practicing randomization, input validation, scoring, and function-driven program design.
+4. [**04.game.py**](04.game.py)  
+   Implements a number guessing game with difficulty constraints. Applies random number generation, input validation, and loop control.
 
-6. **06_bitcoin.py**  
-   Fetches the current Bitcoin price from an API and calculates the cost of a user-specified amount, reinforcing API usage, JSON parsing, and error handling.
+5. [**05.professor.py**](05.professor.py)  
+   Simulates a math quiz with randomized problems and retry logic. Reinforces loop structure, error handling, and scoring.
+
+6. [**06.bitcoin.py**](06.bitcoin.py)  
+   Fetches real-time Bitcoin prices using an API. Practices HTTP requests, JSON parsing, and formatted currency output.
