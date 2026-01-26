@@ -6,7 +6,7 @@ Problem Set 4 introduces external libraries, stylized output, and real‑time da
 
 ## Files
 
-1. [**01_emojiize.py**](01_emojiize.py)  
+1. [**01_emojize.py**](01_emojize.py)  
    Converts emoji aliases into actual emoji characters using the `emoji` library. Practices external module usage and string substitution.
 
 2. [**02_figlet.py**](02_figlet.py)  
