@@ -1,4 +1,4 @@
-﻿﻿# 🧩CS50P - Problem Set 1 Logic Pattern Summary Sheet
+﻿﻿🧩CS50P - Problem Set 1 Logic Pattern Summary Sheet
 
 1. deep_thought.py - Exact Match
 Logic pattern: string comparison
