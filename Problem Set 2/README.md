@@ -1,7 +1,7 @@
 ﻿# 🧩 Problem Set 2
 
 ## Overview  
-Problem Set 2 deepens your work with strings, loops, and validation. These exercises emphasize incremental input processing, rule enforcement, and transforming text according to clear patterns.
+Problem Set 2 deepens my work with strings, loops, and validation. These exercises emphasize incremental input processing, rule enforcement, and transforming text according to clear patterns.
 
 ## Files  
 1. **`01_camel.py`**  
