@@ -1,22 +1,22 @@
-🌱 Problem Set 0
+# 🌱 Problem Set 0
 
-Overview
+## Overview
 
 Problem Set 0 introduces basic input/output, string formatting, and simple conditionals. These exercises reinforce user interaction, predictable output, and foundational syntax.
 
-Files
+## Files
 
-1. 	01_playback.py
-Converts spoken text into playback format by replacing spaces with ellipses, practicing basic string manipulation and output formatting.
+1. [**01_indoor.py**](01_indoor.py)  
+   Converts user input to lowercase, simulating an indoor voice. Reinforces string normalization.
 
-2. 	02_favorites.py
-Prompts for a favorite subject and responds with a personalized message, reinforcing input handling and conditional logic.
+2. [**02_playback.py**](02_playback.py)  
+   Converts spoken text into playback format by replacing spaces with ellipses. Practices basic string manipulation and output formatting.
 
-3. 	03_faces.py
-Replaces emoticon-style faces with actual emoji characters, practicing string replacement and user-friendly output.
+3. [**03_faces.py**](03_faces.py)  
+   Replaces emoticon-style faces with actual emoji characters. Practices string replacement and user-friendly output.
 
-4. 	04_indoor.py
-Converts user input to lowercase, simulating an indoor voice and reinforcing string normalization.
+4. [**04_einstein.py**](04_einstein.py)  
+   Computes energy equivalence using \(E = mc^2\). Reinforces arithmetic operations and formatted output.
 
-5. 	05_hello.py
-Prints a simple greeting, introducing basic syntax and output structure.
+5. [**05_tip.py**](05_tip.py)  
+   Calculates a restaurant tip based on user input. Practices numeric input handling and percentage calculations.
