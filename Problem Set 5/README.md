@@ -1,18 +1,17 @@
-﻿🧩 Problem Set 5 — Unit Tests
+﻿# 🧩 Problem Set 5
 
-Overview  
-Problem Set 5 expands on writing predictable, testable Python functions by introducing automated validation with pytest.  
-Each test file targets a specific program and ensures correct logic, edge‑case handling, and consistent behavior.
+## Overview  
+Problem Set 5 introduces unit testing as a core part of program design. These exercises formalize expectations for earlier problem set functions, reinforcing test‑driven thinking, edge‑case coverage, and modular structure.
 
-Files  
-1. test_twttr.py  
-   Validates the shorten() function by checking vowel removal, mixed‑case handling, and behavior with both vowel‑only and vowel‑free strings.
+## Files  
+1. **`01_test_twttr.py`**  
+   Confirms that the vowel‑stripping logic behaves as expected across different strings, cases, and special characters.
 
-2. test_bank.py  
-   Confirms correct return values for greetings, including “hello” variations, words beginning with h, and all other inputs.
+2. **`02_test_bank.py`**  
+   Tests the `value` function from the bank program, checking multiple greeting formats, edge cases, and normalization behavior.
 
-3. test_plates.py  
-   Tests vanity plate validation rules, including length limits, starting letters, number placement, leading zero restrictions, and alphanumeric requirements.
+3. **`03_test_plates.py`**  
+   Exercises the license plate validator with a wide range of valid and invalid examples, ensuring each rule is correctly enforced.
 
-4. test_fuel.py  
-   Ensures convert() and gauge() behave predictably by testing valid fractions, zero‑division errors, X > Y errors, and gauge output for E, F, and percentage ranges.
+4. **`04_test_fuel.py`**  
+   Verifies the fuel gauge logic, including valid fractions, boundary conditions, and error handling for invalid input.
