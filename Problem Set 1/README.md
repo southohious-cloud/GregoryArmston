@@ -1,40 +1,20 @@
-﻿﻿🧩CS50P - Problem Set 1 Logic Pattern Summary Sheet
+﻿﻿# 🧩 Problem Set 1
 
-1. deep_thought.py - Exact Match
-Logic pattern: string comparison
-· Take user input
-· Compare to "42", "forty-two", "forty two"
-· If match -> print Yes
-· Else -> print No
+## Overview  
+Problem Set 1 focuses on foundational Python control flow, user input handling, and basic string and numeric processing. These exercises build confidence in conditional logic, simple parsing, and mapping user input to structured responses.
 
-2. bank.py - Greeting-Based Output
-Logic pattern: prefix conditions
-· Take user input
-· Normalize to lowercase
-· If starts with "hello" -> output 0
-· Else if starts with "h" -> output 20
-· Else -> output 100
+## Files  
+1. **`01_deep.py`**  
+   Checks whether the user provides the correct answer to a specific question, reinforcing normalization, comparison, and conditional branching.
 
-3. extensions.py - MIME Type Lookup
-Logic pattern: suffix mapping
-· Take filename input
-· Convert to lowercase
-· Extract extension after last dot
-· Use dictionary to map extension
-· If unknown -> output application/octet-stream
+2. **`02_bank.py`**  
+   Interprets a user’s greeting and returns a dollar amount based on its content, practicing string methods and rule‑based conditionals.
 
-4. interpreter.py - Math Expression Parser
-Logic pattern: tokenization + arithmetic
-· Take input like "x + y"
-· Split into operand1, operator, operand2
-· Convert operands to float
-· Perform operation
-· Print result to one decimal place
+3. **`03_extensions.py`**  
+   Maps a file’s extension to its corresponding media type, strengthening string parsing, case handling, and lookup logic.
 
-5. meal.py - Time-Based Meal Detection
-Logic pattern: range check
-· Take time input
-· Convert to float hour
-· If 7.0-8.0 -> breakfast
-· If 12.0-13.0 -> lunch
-· If 18.0-19.0 -> dinner
+4. **`04_interpreter.py`**  
+   Evaluates a simple arithmetic expression provided as a string, applying splitting, casting, and operator‑based branching.
+
+5. **`05_meal.py`**  
+   Converts a time string into a meal period, reinforcing time parsing, numeric comparison, and clean function design.
