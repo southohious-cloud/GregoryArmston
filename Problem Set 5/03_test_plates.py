@@ -37,6 +37,8 @@ def test_alphanumeric_only():
     assert is_valid("GOOD-BYE") is False
     assert is_valid("CS50") is True
 
+
+
 def test_edge_cases():
     assert is_valid("AA0") is False        # zero cannot be first digit
     assert is_valid("A1A") is False        # number in middle
