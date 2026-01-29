@@ -37,6 +37,8 @@ def test_convert_out_of_range():
 # Tests for gauge()
 # -------------------------
 
+
+
 def test_gauge_empty():
     assert gauge(0) == "E"
     assert gauge(1) == "E"
