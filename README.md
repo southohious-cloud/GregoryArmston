@@ -1,96 +1,70 @@
-👋 Hi, I’m Gregory Armston
-Creative Technologist • Workflow Architect • AI Automation Systems
-I design and build modular, scalable, business‑grade AI automation engines that blend technical rigor with premium presentation. My work sits at the intersection of Python architecture, workflow orchestration, identity‑preserving automation, and brand‑aligned system design.
-I’m obsessed with clarity, modularity, and building systems that feel as good as they function.
+# 🧠 CS50P Problem Sets
 
-🚀 What I Build
-• 	AI Workflow Engines with clean, extensible architecture
-• 	Intent‑driven automation pipelines that route tasks intelligently
-• 	Identity‑preserving NLP systems for business‑grade use cases
-• 	Premium, client‑ready tooling with strong visual hierarchy
-• 	Portfolio‑level modular repos designed for long‑term scalability
+A curated collection of completed problem sets for Harvard’s CS50P: Introduction to Programming with Python. Each folder contains clean, modular solutions with matching test files, logic-pattern summaries, and binder-ready documentation.
 
-🧠 Core Skills
-• 	Modular Python architecture & workflow orchestration
-• 	Systematic troubleshooting across Windows, GitHub Desktop, OneDrive, CS50
-• 	Premium branding, README writing, and project presentation
-• 	AI‑assisted collaboration and iterative refinement
-• 	Designing printable, referenceable technical resources
+---
 
-🔧 Current Focus
-I’m currently building Phase 1 of a full AI Workflow Engine, with a clean, modular repo structure designed for:
-• 	Extensibility
-• 	Business‑grade reliability
-• 	Clear documentation
-• 	Identity‑aligned branding
-I’m also refining my environment setup to ensure seamless development across Windows, GitHub Desktop, and cloud‑synced workspaces.
+## 🧩 [Problem Set 0](Problem%20Set%200)
 
-🗂 Featured Projects
-The AI Business Automator
-A modular automation engine designed to orchestrate AI‑powered business workflows with clarity and scale.
-Workflow Engine (Phase 1)
-A clean‑slate, premium‑structured repo showcasing my architectural approach to AI systems.
-(More projects coming as I continue migrating and refining my portfolio.)
+1. [`indoor.py`](Problem%20Set%200/indoor.py) — Case normalization  
+2. [`playback.py`](Problem%20Set%200/playback.py) — String replacement for timing  
+3. [`faces.py`](Problem%20Set%200/faces.py) — Emoji substitution  
+4. [`einstein.py`](Problem%20Set%200/einstein.py) — Mass-to-energy conversion  
+5. [`tip.py`](Problem%20Set%200/tip.py) — Conditional logic and float formatting
 
-🎨 How I Work
-I believe in:
-• 	Clean slates when needed — clarity beats clutter
-• 	Modularity over monoliths
-• 	Premium presentation as a core part of engineering
-• 	Iterative refinement with AI as a collaborative partner
-• 	Systems that scale technically and visually
+---
 
-📫 Connect
-If you’re building something ambitious — automation, AI systems, or workflow architecture — I’d love to collaborate.
+## 🧮 [Problem Set 1](Problem%20Set%201)
 
-## 🐍 CS50P Problem Sets
+1. [`deep.py`](Problem%20Set%201/deep.py) — Philosophical response logic  
+2. [`bank.py`](Problem%20Set%201/bank.py) — Greeting-based dollar response  
+3. [`extensions.py`](Problem%20Set%201/extensions.py) — Media type detection  
+4. [`interpreter.py`](Problem%20Set%201/interpreter.py) — Arithmetic expression evaluator  
+5. [`meal.py`](Problem%20Set%201/meal.py) — Time-based meal classification
 
-This repository includes selected problem sets from Harvard’s CS50P: Introduction to Programming with Python. These exercises demonstrate foundational Python concepts and reflect my commitment to clean, modular, and intentional code design.
+---
 
-### CS50P Problem Set Index
-- Problem Set 0 — Functions & Conditionals
-- Problem Set 1 — Conditionals & Parsing
-- Problem Set 2 — Loops, Validation & Dictionaries
-- Problem Set 3 — Exceptions & Parsing
-- Problem Set 4 — Libraries, Randomness & Files
-- Problem Set 5 — Unit Testing
-- Problem Set 6 — File I/O, CSV & Images
-- Problem Set 7 — Regular Expressions
-- Problem Set 8 — Object-Oriented Programming
+## 🧱 [Problem Set 2](Problem%20Set%202)
 
-### 🧪 Problem Set 0
-- `indoor.py`: Case normalization
-- `playback.py`: String replacement for timing
-- `faces.py`: Emoji substitution
-- `einstein.py`: Simple arithmetic and user input
-- `tip.py`: Conditional logic and float formatting
+1. [`camel.py`](Problem%20Set%202/camel.py) — camelCase to snake_case conversion  
+2. [`coke.py`](Problem%20Set%202/coke.py) — Coin loop with change calculation  
+3. [`twttr.py`](Problem%20Set%202/twttr.py) — Vowel removal  
+4. [`plates.py`](Problem%20Set%202/plates.py) — Vanity plate validation  
+5. [`nutrition.py`](Problem%20Set%202/nutrition.py) — Fruit calorie lookup
 
-### 🧪 Problem Set 1
-- `camel.py`: String manipulation and formatting
-- `coke.py`: Looping and input validation
-- `nutrition.py`: Dictionary lookups and conditionals
-- `plates.py`: Custom validation logic
-- `twttr.py`: Vowel removal and string filtering
-- `meal.py`: Time parsing + range comparison
+---
 
-### 🧪 Problem Set 2
-- `einstein.py`: Simple arithmetic and user input
-- `faces.py`: Emoji substitution
-- `indoor.py`: Case normalization
-- `playback.py`: String replacement for timing
-- `tip.py`: Conditional logic and float formatting
+## 🧵 [Problem Set 3](Problem%20Set%203)
 
-- ## Problem Set 3
-- `fuel.py`: Fraction parsing, validation loops, and percentage classification
-- `taqueria.py`: Menu dictionary lookups with normalized input
-- `grocery.py`: Frequency counting with sorted output
-- `outdated.py`: Multi-format date parsing and ISO normalization
+1. [`fuel.py`](Problem%20Set%203/fuel.py) — Fraction parsing, validation loops, and percentage classification  
+2. [`taqueria.py`](Problem%20Set%203/taqueria.py) — Menu dictionary lookups with normalized input  
+3. [`grocery.py`](Problem%20Set%203/grocery.py) — Frequency counting with sorted output  
+4. [`outdated.py`](Problem%20Set%203/outdated.py) — Multi-format date parsing and ISO normalization
 
-- ### Problem Sets 4–8
-Additional problem sets and their logic‑pattern summaries are being added as I continue refining each module. My full binder includes complete logic‑pattern documentation, a master index, and a table of contents for all eight problem sets, and this repository will be updated to match that structure.
+---
 
-## 📱 Scan to explore my work
-**Portfolio • GitHub • LinkedIn**  
+## 🧰 [Problem Set 4](Problem%20Set%204)
+
+1. [`emojize.py`](Problem%20Set%204/emojize.py) — Emoji conversion using external library  
+2. [`figlet.py`](Problem%20Set%204/figlet.py) — ASCII art rendering  
+3. [`adieu.py`](Problem%20Set%204/adieu.py) — Farewell formatting with plural logic  
+4. [`game.py`](Problem%20Set%204/game.py) — Random number guessing loop  
+5. [`little_professor.py`](Problem%20Set%204/little_professor.py) — Arithmetic drill with scoring  
+6. [`bitcoin.py`](Problem%20Set%204/bitcoin.py) — Real-time Bitcoin price lookup via API
+
+---
+
+## 🧪 [Problem Set 5](Problem%20Set%205)
+
+1. [`test_twttr.py`](Problem%20Set%205/test_twttr.py) — Vowel-stripping logic across cases and symbols  
+2. [`test_bank.py`](Problem%20Set%205/test_bank.py) — Greeting normalization and dollar response tests  
+3. [`test_plates.py`](Problem%20Set%205/test_plates.py) — Plate validation across edge cases  
+4. [`test_fuel.py`](Problem%20Set%205/test_fuel.py) — Fuel fraction parsing and gauge output validation
+
+---
+
+📱 **Scan to explore my work**
+
+Portfolio • GitHub • LinkedIn  
 Instant access to my full ecosystem — projects, code, and professional profile.
-
 <img src="frame.png" width="180" alt="QR code to portfolio ecosystem">
