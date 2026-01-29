@@ -63,6 +63,13 @@ A curated collection of completed problem sets for Harvard’s CS50P: Introducti
 
 ---
 
+## 🧪 [Problem Set 6](Problem%20Set%206)
+
+1. [`lines.py`](Problem%20Set%206/lines.py) — Counts lines of actual code in a Python file, ignoring comments and blank lines  
+2. [`pizza.py`](Problem%20Set%206/pizza.py) — Reads a CSV of pizza data and prints a formatted table  
+3. [`scourgify.py`](Problem%20Set%206/scourgify.py) — Cleans and restructures a CSV of student names  
+4. [`shirt.py`](Problem%20Set%206/shirt.py) — Overlays a shirt graphic onto a user-provided image using Pillow
+
 📱 **Scan to explore my work**
 
 Portfolio • GitHub • LinkedIn  
