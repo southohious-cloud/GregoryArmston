@@ -70,6 +70,8 @@ A curated collection of completed problem sets for Harvard’s CS50P: Introducti
 3. [`scourgify.py`](Problem%20Set%206/scourgify.py) — Cleans and restructures a CSV of student names  
 4. [`shirt.py`](Problem%20Set%206/shirt.py) — Overlays a shirt graphic onto a user-provided image using Pillow
 
+
+
 📱 **Scan to explore my work**
 
 Portfolio • GitHub • LinkedIn  
