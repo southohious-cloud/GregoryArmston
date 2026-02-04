@@ -87,6 +87,7 @@ A curated collection of completed problem sets for Harvard’s CS50P: Introducti
 3. **[03_shirtificate.py](Problem%20Set%208/03_shirtificate.py)** — Generates a CS50 shirtificate image using OOP + Pillow  
 
 
+
 📱 **Scan to explore my work**
 
 
