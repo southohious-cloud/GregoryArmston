@@ -85,6 +85,7 @@ A curated collection of completed problem sets for Harvard’s CS50P: Introducti
 1. **[01_seasons.py](Problem%20Set%208/01_seasons.py)** — Computes minutes lived using date parsing and validation  
 2. **[02_jar.py](Problem%20Set%208/02_jar.py)** — Implements a Cookie Jar class with capacity and behavior rules  
 3. **[03_shirtificate.py](Problem%20Set%208/03_shirtificate.py)** — Generates a CS50 shirtificate image using OOP + Pillow  
+
 📱 **Scan to explore my work**
 
 
