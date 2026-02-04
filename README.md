@@ -70,10 +70,23 @@ A curated collection of completed problem sets for Harvard’s CS50P: Introducti
 3. [`scourgify.py`](Problem%20Set%206/scourgify.py) — Cleans and restructures a CSV of student names  
 4. [`shirt.py`](Problem%20Set%206/shirt.py) — Overlays a shirt graphic onto a user-provided image using Pillow
 
+---
 
+## 🧩 Problem Set 7
+1. **[01_numb3rs.py](Problem%20Set%207/01_numb3rs.py)** — Validates IPv4 addresses using regular expressions  
+2. **[02watch.py](Problem%20Set%207/02watch.py)** — Extracts YouTube video IDs from multiple URL formats  
+3. **[03_working.py](Problem%20Set%207/03_working.py)** — Converts time ranges between 12‑hour and 24‑hour formats  
+4. **[04_um.py](Problem%20Set%207/04_um.py)** — Counts occurrences of “um” with boundary‑safe matching  
+5. **[05_response.py](Problem%20Set%207/05_response.py)** — Normalizes yes/no‑style user responses using regex  
 
+---
 
+## 🧱 Problem Set 8
+1. **[01_seasons.py](Problem%20Set%208/01_seasons.py)** — Computes minutes lived using date parsing and validation  
+2. **[02_jar.py](Problem%20Set%208/02_jar.py)** — Implements a Cookie Jar class with capacity and behavior rules  
+3. **[03_shirtificate.py](Problem%20Set%208/03_shirtificate.py)** — Generates a CS50 shirtificate image using OOP + Pillow  
 📱 **Scan to explore my work**
+
 
 Portfolio • GitHub • LinkedIn  
 Instant access to my full ecosystem — projects, code, and professional profile.
