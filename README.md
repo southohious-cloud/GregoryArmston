@@ -97,14 +97,34 @@ A curated collection of completed problem sets for Harvard’s CS50P: Introducti
 
 ---
 
-## 🧩 [Problem Set 7](Problem%20Set%207)
+## 📘 Problem Set 7
 
-1. **[`01_numb3rs.py`](Problem%20Set%207/01_numb3rs.py)** — Validates IPv4 addresses using regular expressions  
-2. **[`02_watch.py`](Problem%20Set%207/02_watch.py)** — Extracts YouTube video IDs from multiple URL formats  
-3. **[`03_working.py`](Problem%20Set%207/03_working.py)** — Converts time ranges between 12‑hour and 24‑hour formats  
-4. **[`04_um.py`](Problem%20Set%207/04_um.py)** — Counts occurrences of “um” with boundary‑safe matching  
-5. **[`05_response.py`](Problem%20Set%207/05_response.py)** — Normalizes yes/no‑style user responses using regex
+1. [01_numb3rs.py](https://github.com/southohious-cloud/GregoryArmston/blob/main/Problem%20Set%207/01_numb3rs.py)  
+   Validates IPv4 addresses using regular expressions, ensuring each octet falls within the correct numeric range.
 
+2. [01_test_numb3rs.py](https://github.com/southohious-cloud/GregoryArmston/blob/main/Problem%20Set%207/01_test_numb3rs.py)  
+   Unit tests for the NUMB3RS validator, covering valid and invalid address patterns.
+
+3. [02watch.py](https://github.com/southohious-cloud/GregoryArmston/blob/main/Problem%20Set%207/02watch.py)  
+   Extracts YouTube video IDs from various URL formats using regex.
+
+4. [02_test_watch.py](https://github.com/southohious-cloud/GregoryArmston/blob/main/Problem%20Set%207/02_test_watch.py)  
+   Tests for the YouTube ID extraction logic, including malformed and edge‑case URLs.
+
+5. [03_working.py](https://github.com/southohious-cloud/GregoryArmston/blob/main/Problem%20Set%207/03_working.py)  
+   Converts time ranges between 12‑hour and 24‑hour formats with strict validation.
+
+6. [03_test_working.py](https://github.com/southohious-cloud/GregoryArmston/blob/main/Problem%20Set%207/03_test_working.py)  
+   Tests for time‑range conversion, ensuring correct parsing and formatting.
+
+7. [04_um.py](https://github.com/southohious-cloud/GregoryArmston/blob/main/Problem%20Set%207/04_um.py)  
+   Counts occurrences of the word “um” in a case‑insensitive, boundary‑aware manner.
+
+8. [04_test_um.py](https://github.com/southohious-cloud/GregoryArmston/blob/main/Problem%20Set%207/04_test_um.py)  
+   Tests for accurate “um” detection across varied sentence structures.
+
+9. [05_response.py](https://github.com/southohious-cloud/GregoryArmston/blob/main/Problem%20Set%207/05_response.py)  
+   Normalizes user responses like “yes” and “no” using regex‑driven matching.
 ---
 
 ## 🧱 [Problem Set 8](Problem%20Set%208)
