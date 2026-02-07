@@ -65,4 +65,35 @@ A curated collection of completed problem sets for Harvard’s CS50P: Introducti
 
 ## 🧪 [Problem Set 6](Problem%20Set%206)
 
-1. [`01_lines.py`](Problem%20Set%206/01_lines.py) — Counts lines of actual code in a Python file, ignoring
+1. [`01_lines.py`](Problem%20Set%206/01_lines.py) — Counts lines of actual code in a Python file, ignoring comments and blank lines  
+2. [`02_pizza.py`](Problem%20Set%206/02_pizza.py) — Reads a CSV of pizza data and prints a formatted table  
+3. [`03_scourgify.py`](Problem%20Set%206/03_scourgify.py) — Cleans and restructures a CSV of student names  
+4. [`04_shirt.py`](Problem%20Set%206/04_shirt.py) — Overlays a shirt graphic onto a user-provided image using Pillow
+
+---
+
+## 🧩 [Problem Set 7](Problem%20Set%207)
+
+1. **[`01_numb3rs.py`](Problem%20Set%207/01_numb3rs.py)** — Validates IPv4 addresses using regular expressions  
+2. **[`02_watch.py`](Problem%20Set%207/02_watch.py)** — Extracts YouTube video IDs from multiple URL formats  
+3. **[`03_working.py`](Problem%20Set%207/03_working.py)** — Converts time ranges between 12‑hour and 24‑hour formats  
+4. **[`04_um.py`](Problem%20Set%207/04_um.py)** — Counts occurrences of “um” with boundary‑safe matching  
+5. **[`05_response.py`](Problem%20Set%207/05_response.py)** — Normalizes yes/no‑style user responses using regex
+
+---
+
+## 🧱 [Problem Set 8](Problem%20Set%208)
+
+1. **[`01_seasons.py`](Problem%20Set%208/01_seasons.py)** — Computes minutes lived using date parsing and validation  
+2. **[`02_jar.py`](Problem%20Set%208/02_jar.py)** — Implements a Cookie Jar class with capacity and behavior rules  
+3. **[`03_shirtificate.py`](Problem%20Set%208/03_shirtificate.py)** — Generates a CS50 shirtificate PDF by placing the user’s name onto a provided shirt image  
+4. **[`03_shirtificate.pdf`](Problem%20Set%208/03_shirtificate.pdf)**  
+5. **[`03_shirtificate.png`](Problem%20Set%208/03_shirtificate.png)**  
+
+---
+
+📱 **Scan to explore my work**
+
+Portfolio • GitHub • LinkedIn  
+Instant access to my full ecosystem — projects, code, and professional profile.  
+<img src="frame.png" width="180" alt="QR code to portfolio ecosystem">
