@@ -63,12 +63,37 @@ A curated collection of completed problem sets for Harvard’s CS50P: Introducti
 
 ---
 
-## 🧪 [Problem Set 6](Problem%20Set%206)
+## 🧪 Problem Set 6
 
-1. [`01_lines.py`](Problem%20Set%206/01_lines.py) — Counts lines of actual code in a Python file, ignoring comments and blank lines  
-2. [`02_pizza.py`](Problem%20Set%206/02_pizza.py) — Reads a CSV of pizza data and prints a formatted table  
-3. [`03_scourgify.py`](Problem%20Set%206/03_scourgify.py) — Cleans and restructures a CSV of student names  
-4. [`04_shirt.py`](Problem%20Set%206/04_shirt.py) — Overlays a shirt graphic onto a user-provided image using Pillow
+1. [01_lines.py](https://github.com/southohious-cloud/GregoryArmston/blob/main/Problem%20Set%206/01_lines.py)  
+   Counts lines of actual code in a Python file, ignoring comments and blank lines.
+
+2. [02_pizza.py](https://github.com/southohious-cloud/GregoryArmston/blob/main/Problem%20Set%206/02_pizza.py)  
+   Parses a CSV file of pizza orders and prints a formatted table using `tabulate`.
+
+3. [03_scourgify.py](https://github.com/southohious-cloud/GregoryArmston/blob/main/Problem%20Set%206/03_scourgify.py)  
+   Cleans up a messy CSV file by reformatting names and writing to a new file.
+
+4. [04_shirt.py](https://github.com/southohious-cloud/GregoryArmston/blob/main/Problem%20Set%206/04_shirt.py)  
+   Uses Pillow to overlay a shirt image onto a user‑provided photo.
+
+---
+
+### **CSV Files**
+
+5. [before.csv](https://github.com/southohious-cloud/GregoryArmston/blob/main/Problem%20Set%206/before.csv)  
+6. [regular.csv](https://github.com/southohious-cloud/GregoryArmston/blob/main/Problem%20Set%206/regular.csv)  
+7. [sicilian.csv](https://github.com/southohious-cloud/GregoryArmston/blob/main/Problem%20Set%206/sicilian.csv)
+
+---
+
+### **Image Assets**
+
+8. [before1.jpg](https://github.com/southohious-cloud/GregoryArmston/blob/main/Problem%20Set%206/before1.jpg)  
+9. [before2.jpg](https://github.com/southohious-cloud/GregoryArmston/blob/main/Problem%20Set%206/before2.jpg)  
+10. [before3.jpg](https://github.com/southohious-cloud/GregoryArmston/blob/main/Problem%20Set%206/before3.jpg)  
+11. [output.jpg](https://github.com/southohious-cloud/GregoryArmston/blob/main/Problem%20Set%206/output.jpg)  
+12. [shirt.png](https://github.com/southohious-cloud/GregoryArmston/blob/main/Problem%20Set%206/shirt.png)
 
 ---
 
