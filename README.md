@@ -6,11 +6,11 @@ A curated collection of completed problem sets for Harvard’s CS50P: Introducti
 
 ## 🧩 [Problem Set 0](Problem%20Set%200)
 
-1. [`indoor.py`](Problem%20Set%200/indoor.py) — Case normalization  
-2. [`playback.py`](Problem%20Set%200/playback.py) — String replacement for timing  
-3. [`faces.py`](Problem%20Set%200/faces.py) — Emoji substitution  
-4. [`einstein.py`](Problem%20Set%200/einstein.py) — Mass-to-energy conversion  
-5. [`tip.py`](Problem%20Set%200/tip.py) — Conditional logic and float formatting
+1. [`01_indoor.py`](Problem%20Set%200/indoor.py) — Case normalization  
+2. [`02_playback.py`](Problem%20Set%200/playback.py) — String replacement for timing  
+3. [`03_faces.py`](Problem%20Set%200/faces.py) — Emoji substitution  
+4. [`04_einstein.py`](Problem%20Set%200/einstein.py) — Mass-to-energy conversion  
+5. [`05_tip.py`](Problem%20Set%200/tip.py) — Conditional logic and float formatting
 
 ---
 
