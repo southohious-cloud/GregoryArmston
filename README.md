@@ -152,8 +152,3 @@ A curated collection of completed problem sets for Harvard’s CS50P: Introducti
 
 ---
 
-📱 **Scan to explore my work**
-
-Portfolio • GitHub • LinkedIn  
-Instant access to my full ecosystem — projects, code, and professional profile.  
-<img src="frame.png" width="180" alt="QR code to portfolio ecosystem">
