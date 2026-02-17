@@ -144,7 +144,7 @@ A curated collection of completed problem sets for Harvard’s CS50P: Introducti
 5. [03_shirtificate.png](https://github.com/southohious-cloud/GregoryArmston/blob/main/Problem%20Set%208/03_shirtificate.png)  
    The shirt image used as the base layer for the PDF.
 
-## Final Project — Backup Integrity Checker
+# Final Project — Backup Integrity Checker
 
 1. [project.py](project/project.py) — Full implementation of the Backup Integrity Checker, including folder scanning, timestamp comparison, and report generation.
 
