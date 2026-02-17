@@ -144,11 +144,15 @@ A curated collection of completed problem sets for Harvard’s CS50P: Introducti
 5. [03_shirtificate.png](https://github.com/southohious-cloud/GregoryArmston/blob/main/Problem%20Set%208/03_shirtificate.png)  
    The shirt image used as the base layer for the PDF.
 
-   # Final Project — Backup Integrity Checker
+## Final Project — Backup Integrity Checker
 
-1. [project/](project/) — Contains the full implementation of the Backup Integrity Checker, including modular functions for scanning directories, comparing timestamps, and generating a structured integrity report.
+1. [project.py](project/project.py) — Full implementation of the Backup Integrity Checker, including folder scanning, timestamp comparison, and report generation.
 
-2. [README.md](project/README.md) — Project overview describing the tool’s purpose, design philosophy, and workflow. Explains how the program compares source and backup folders to identify missing, outdated, and up‑to‑date files.
+2. [test_project.py](project/test_project.py) — Automated tests for scan_folder, compare_folders, and generate_report using temporary directories for isolated, repeatable testing.
+
+3. [README.md](project/README.md) — Detailed project overview explaining purpose, design decisions, workflow, and how to run the program.
+
+4. [requirements.txt](project/requirements.txt) — Included for CS50P structure requirements; the project uses only Python’s standard library.
 
 ---
 
